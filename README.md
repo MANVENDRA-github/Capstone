@@ -7,6 +7,7 @@ Capstone final year project
 
 <br>
 Tech Stack:
+React JS
 
 <br>
 IEEE Format Research Papers:
