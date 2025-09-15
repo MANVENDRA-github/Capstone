@@ -8,6 +8,8 @@ Capstone final year project
 <br>
 Tech Stack:
 React JS
+Next JS
+Mongo DB
 
 <br>
 IEEE Format Research Papers:
