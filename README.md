@@ -8,8 +8,11 @@ Capstone final year project
 <br>
 Tech Stack:
 React JS
+<br>
 Next JS
+<br>
 Express JS
+<br>
 Mongo DB
 
 <br>
