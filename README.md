@@ -9,6 +9,7 @@ Capstone final year project
 Tech Stack:
 React JS
 Next JS
+Express JS
 Mongo DB
 
 <br>
