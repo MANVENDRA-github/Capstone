@@ -22,6 +22,8 @@ VC Feature by <br> Stream.
 IEEE Format Research Papers:
 <br>
 
+AI help for UI:<br>
+Figma
 <br>
 Articles:
 1.Related to mental health
