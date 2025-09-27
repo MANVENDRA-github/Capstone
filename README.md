@@ -13,6 +13,8 @@ Next JS
 <br>
 Express JS
 <br>
+TypeScript
+<br>
 Mongo DB
 
 <br>
