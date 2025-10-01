@@ -6,7 +6,7 @@ Capstone final year project
 4.AWS free servers
 
 <br>
-Tech Stack:
+Tech Stack:<br>
 React JS
 <br>
 Next JS
