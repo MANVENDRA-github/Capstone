@@ -21,10 +21,7 @@ Mongo DB
 <br>
 VC Feature by <br> Stream.
 <br>
-IEEE Format Research Papers:
-<br>
-<br>
-IEEE rules:-
+
 <br>
 <br>
 AI help for UI:<br>
