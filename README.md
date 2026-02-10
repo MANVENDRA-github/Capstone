@@ -8,7 +8,7 @@ Capstone final year project
 
 Tech Stack:<br>
 React JS
-<br>
+
 Next JS
 <br>
 Express JS
