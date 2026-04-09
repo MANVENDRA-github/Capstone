@@ -24,7 +24,7 @@ VC Feature by <br> Stream.
 
 
 <br>
-AI help for UI:<br>
+UI design:<br>
 Figma
 
 <br>
