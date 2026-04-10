@@ -1,9 +1,4 @@
 # Capstone
-Capstone final year project
-1.Real-time chatbot
-2.Freelancing website
-3.Payment feature
-4.AWS free servers
 <br>
 
 Tech Stack:<br>
