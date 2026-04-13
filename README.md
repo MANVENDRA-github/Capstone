@@ -19,8 +19,6 @@ VC Feature by <br> Stream.
 
 
 <br>
-UI design:<br>
-Figma
 
 <br>
 
